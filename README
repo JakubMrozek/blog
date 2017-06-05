@@ -1,1 +1,1 @@
-hexo deploy && git push
+hexo generate && hexo deploy && git commit -m "new post" && git push
