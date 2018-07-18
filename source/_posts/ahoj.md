@@ -2,6 +2,7 @@
 title: Ahoj!
 comments: false
 thumbnail: /images/mapa.png
+date: 2017/7/1 08:00:00
 ---
 Jsem Jakub Mrozek a možná mě znáte z facebookové stránky [Dundee vs. svět](https://www.facebook.com/dundeevssvet/). V současné době mám několik dní do odletu do Ulánbátaru, hlavního města Mongolska, kde by měla začít moje dlouhá **cesta kolem světa**.
 
